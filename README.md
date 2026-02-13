@@ -58,15 +58,3 @@ Use the Back to list button to return.
 📄 License
 MIT License © 2026 ABINAYA
 
-Code
-
----
-
-### How to include this
-1. Create or edit the `README.md` file in your project root (`Assignment/README.md`).  
-2. Paste the polished content above.  
-3. Commit and push to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add polished README"
-   git push
